@@ -20,7 +20,7 @@ public class AutomationTesting {
         System.out.println("Enter an integer: ");
         Scanner s= new Scanner(System.in);
         n= s.nextInt();
-        //check 2<n<20 const
+        //check 2<n<20 constraint
    if(n>2&&n<20)
    {        //if condition is true code program print mulyiples
 
@@ -30,8 +30,9 @@ public class AutomationTesting {
     }
    }
    else{ //end the process
-                 }    
+                 }
     }
+}
         
     
 
