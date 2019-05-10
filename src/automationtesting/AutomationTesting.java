@@ -29,7 +29,8 @@ public class AutomationTesting {
         System.out.println(i+"*"+n+"="+result); 
     }
    }
-   else{ //end the process
+   else{ 
+System.out.println("The valued entered should be greater than 2 and less than 20");//end the process
                  }
     }
     }
